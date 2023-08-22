@@ -1,0 +1,31 @@
+.cursor-pointer {
+	cursor: pointer;
+}
+
+.etiqueta {
+	padding: 2px 8px 3px 8px;
+	margin-right: 5px;
+	border-radius: 10px;
+	font-size: 12px;
+	background-color: #6C757D;
+	color: #FFF;
+	cursor: pointer;
+	white-space: nowrap;
+}
+.etiqueta:hover {
+	padding: 2px 8px 3px 8px;
+	border-radius: 10px;
+	border: solid 1px #6C757D;
+	font-size: 12px;
+	background-color: #FFF;
+	color: #6C757D;
+	cursor: pointer;
+	margin-right: 5px;
+	white-space: nowrap;
+}
+
+
+.sin_espacios{
+	margin: 0px;
+	padding: 0px;
+}
